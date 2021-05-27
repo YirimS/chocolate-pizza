@@ -1,5 +1,9 @@
-nav {
+.logo {
   float: left;
+  size: 100px;
+}
+nav {
+  float: right;
 }
 
 body {
