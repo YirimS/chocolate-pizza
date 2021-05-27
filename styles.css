@@ -1,0 +1,43 @@
+nav {
+  float: left;
+}
+
+body {
+  width: 960px;
+  margin: auto;
+}
+
+figure {
+  position: absolute;
+  z-index: -1;
+}
+
+.container1 img {
+  position: relative;
+  max-width: fit-content;
+}
+
+.container1 {
+  position: relative;
+  height: 200px;
+
+}
+
+.container2 { 
+  position: relative;
+  font-size: 20px;
+  left:140px;
+  top: 85px;
+  letter-spacing: normal;
+}
+
+.container3 {
+  position: relative;
+  font-size: 20px;
+  float: right;
+  right: 100px;
+  bottom: 50px;
+  letter-spacing: normal;
+}
+
+
